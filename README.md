@@ -72,7 +72,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **RTL realization Output:** 
 
-**RTL**
+**RTL timing waveform**
 
 **Result:**
 
